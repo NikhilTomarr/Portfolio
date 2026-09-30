@@ -232,7 +232,7 @@ export default function Portfolio() {
             <a href="#contact" className="px-8 py-3.5 bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-bold rounded-lg transition-all transform hover:-translate-y-1 hover:shadow-[0_0_25px_rgba(6,182,212,0.5)] active:scale-95 text-center">
               Hire Me
             </a>
-            <a href="https://drive.google.com/file/d/19MgHGBiuWdGrwzY3pBPJMBANHgjX4TS5n/view?usp=drivesdk" className="px-8 py-3.5 flex items-center justify-center gap-2 border border-slate-700 hover:border-cyan-400 text-slate-300 hover:text-cyan-400 font-semibold rounded-lg transition-all bg-slate-900/50 active:scale-95">
+            <a href="https://drive.google.com/file/d/19NPpGBqyPHJFtGKWtq85XquHKx8CNwz5n/view" className="px-8 py-3.5 flex items-center justify-center gap-2 border border-slate-700 hover:border-cyan-400 text-slate-300 hover:text-cyan-400 font-semibold rounded-lg transition-all bg-slate-900/50 active:scale-95">
               <DownloadIcon /> Download Resume
             </a>
           </div>
